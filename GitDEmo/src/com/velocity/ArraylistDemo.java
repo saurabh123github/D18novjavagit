@@ -9,6 +9,7 @@ public class ArraylistDemo {
 		al.add("mimbai");
 		al.add("benglore");
 		al.add("latur");
+		al.add ("obd");
 		System.out.println(al);
 	}
 
