@@ -3,13 +3,13 @@ package com.velocity;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArrayListDemo {
+public class ArraylistDemo3 {
 	public static void main(String[] args) {
 		List<String> list=new ArrayList<String>();
-		list.add("Saurabh");
+		list.add("saurabh");
 		list.add("amar");
-		list.add("Akshay");
-		list.add("Pradip");
+		list.add("pradip");
+		list.add("akshay");
 		System.out.println(list);
 	}
 
